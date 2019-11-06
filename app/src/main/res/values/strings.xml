@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NetworkingHomeworkApp</string>
+    <string name="passedURL">URL</string>
+    <string name="userName">UserName</string>
+    <string name="pavelDurovURL">https://sun9–67.userapi.com/c210/v210001/4/6Ky-XWCj0LM.jpg</string>
+    <string name="checkInternetConnection">Check Your Internet Connection</string>
+    <string name="checkInternetConnectionAndTry">Check Your Internet Connection And Try Again</string>
+    <string name="unableToGetPicture">Unable To Get The Picture</string>
+</resources>
